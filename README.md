@@ -31,7 +31,7 @@ Bienvenido a **MONDE**, una tienda en línea minimalista, elegante y moderna cre
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/AlexanderTejeda/monde-challenge.git
+git clone https://github.com/TU_USUARIO/monde-challenge.git
 cd monde-challenge
 ```
 
