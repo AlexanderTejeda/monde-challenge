@@ -27,7 +27,7 @@ Bienvenido a **MONDE**, una tienda en línea minimalista, elegante y moderna cre
 ---
 
 ## ⚙️ Instalación local
-
+### Tener instalado nodejs LTS. lo puedes obtener en https://nodejs.org/es
 ### 1. Clona el repositorio
 
 ```bash
